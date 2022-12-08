@@ -1,0 +1,79 @@
+{
+	"song": {
+		"speed": 2.3,
+		"stage": "expo2",
+		"player1": "bfmiku",
+		"player2": "miku",
+		"player3": null,
+		"events": [
+			[
+				23232.5581395349,
+				[
+					[
+						"cambios",
+						"flas",
+						""
+					]
+				]
+			],
+			[
+				137790.697674418,
+				[
+					[
+						"Set Cam Zoom",
+						"1.1",
+						"0.1"
+					]
+				]
+			],
+			[
+				137860.465116279,
+				[
+					[
+						"Play Animation",
+						"paz",
+						"Dad"
+					]
+				]
+			],
+			[
+				137860.465116279,
+				[
+					[
+						"Play Animation",
+						"paz",
+						"Dad"
+					]
+				]
+			],
+			[
+				138279.069767442,
+				[
+					[
+						"Set Cam Zoom",
+						"0.79",
+						"0.1"
+					]
+				]
+			],
+			[
+				158093.023255814,
+				[
+					[
+						"cambios",
+						"gritos",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfmiku",
+		"bpm": 215,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Loid"
+	}
+}
