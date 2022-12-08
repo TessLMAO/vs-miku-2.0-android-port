@@ -1,0 +1,59 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "voca",
+		"player1": "bf-voca",
+		"player2": "miku-voca",
+		"player3": null,
+		"events": [
+			[
+				30000,
+				[
+					[
+						"cambios",
+						"flas",
+						""
+					]
+				]
+			],
+			[
+				134890.510948905,
+				[
+					[
+						"cambios",
+						"",
+						""
+					]
+				]
+			],
+			[
+				136423.357664234,
+				[
+					[
+						"cambios",
+						"gritos",
+						""
+					]
+				]
+			],
+			[
+				137627.737226277,
+				[
+					[
+						"Image Flash",
+						"negro",
+						"15"
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gf-voca",
+		"bpm": 137,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Voca"
+	}
+}
