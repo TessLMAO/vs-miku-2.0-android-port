@@ -1,0 +1,26 @@
+{
+	"songs": [
+		["endless", "miku", [255, 120, 191]],
+		["popipo", "miku", [255, 120, 191]],
+		["aishite", "miku", [255, 120, 191]],
+		["siu", "miku", [255, 120, 191]],
+		["infinite", "miku", [255, 120, 191]],
+		["chug", "miku", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "miku",
+
+	"storyName": "Vs Miku 2.0",
+	"weekBefore": "tutorial",
+	"weekName": "Miku2.0",
+	"difficulties": "Hard",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}

@@ -1,0 +1,22 @@
+{
+	"songs": [
+		["loid", "miku", [255, 120, 191]],
+		["endurance", "miku", [255, 120, 191]],
+		["voca", "miku", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "miku",
+
+	"storyName": "Vs Miku 2.0",
+	"weekBefore": "tutorial",
+	"weekName": "Miku2.0",
+	"startUnlocked": true,
+
+	"hideStoryMode": false,
+	"hideFreeplay": false
+}

@@ -1,0 +1,21 @@
+{
+	"songs": [
+		["disappearance", "miku", [255, 120, 191]]
+	],
+
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"weekBackground": "miku",
+
+	"storyName": "Vs Miku 2.0",
+	"weekBefore": "tutorial",
+	"difficulties": "Hard",
+	"weekName": "Miku2.0",
+	"startUnlocked": true,
+
+	"hideStoryMode": true,
+	"hideFreeplay": false
+}
