@@ -1,0 +1,89 @@
+{
+	"song": {
+		"speed": 3.1,
+		"stage": "expo",
+		"player1": "bfmiku",
+		"player2": "miku",
+		"player3": null,
+		"events": [
+			[
+				14538.4615384615,
+				[
+					[
+						"cambios",
+						"flas",
+						""
+					]
+				]
+			],
+			[
+				91846.1538461538,
+				[
+					[
+						"Image Flash",
+						"negro",
+						"2.9"
+					]
+				]
+			],
+			[
+				91961.5384615384,
+				[
+					[
+						"Set Cam Zoom",
+						"1.091",
+						"0.2"
+					]
+				]
+			],
+			[
+				92076.923076923,
+				[
+					[
+						"cambios",
+						"drop",
+						""
+					]
+				]
+			],
+			[
+				107076.923076923,
+				[
+					[
+						"Set Cam Zoom",
+						"0.79",
+						"7"
+					]
+				]
+			],
+			[
+				121846.153846154,
+				[
+					[
+						"cambios",
+						"nodrop",
+						""
+					]
+				]
+			],
+			[
+				124153.846153846,
+				[
+					[
+						"cambios",
+						"gritos",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": null,
+		"validScore": false,
+		"gfVersion": "gfmiku",
+		"bpm": 130,
+		"arrowSkin": null,
+		"needsVoices": true,
+		"song": "Endurance"
+	}
+}
